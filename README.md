@@ -1,3 +1,5 @@
+Part-Of-Speech task implemented through HMM and Structured, Averaged Perceptron. Project description can be found in pdf. 
+
 # INSTRUCTIONS:
 
 ## PART 2:
